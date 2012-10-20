@@ -27,7 +27,7 @@
 	[navigationController pushViewController:recordTableViewController animated:NO];
 	[recordTableViewController release];
 	
-	[window addSubview:[navigationController view]];
+	[window setRootViewController:navigationController];
     
     [window makeKeyAndVisible];
     

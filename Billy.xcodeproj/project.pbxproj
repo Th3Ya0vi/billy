@@ -14,6 +14,7 @@
 		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D801B40F44B63D00FB423F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28D801B30F44B63D00FB423F /* CoreData.framework */; };
+		AC3EC231163242E000046FAB /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC3EC230163242E000046FAB /* Default-568h@2x.png */; };
 		AC6C6A5E12C39C6D0016E1CC /* RecordTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC6C6A5C12C39C6D0016E1CC /* RecordTableViewController.m */; };
 		AC6C6BDA12C3C6DC0016E1CC /* EditRecordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC6C6BD812C3C6DC0016E1CC /* EditRecordViewController.m */; };
 		AC7976C912CFF96700BC39E6 /* Income.png in Resources */ = {isa = PBXBuildFile; fileRef = AC7976C812CFF96700BC39E6 /* Income.png */; };
@@ -66,6 +67,7 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* Billy_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Billy_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		AC3EC230163242E000046FAB /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		AC6C6A5B12C39C6D0016E1CC /* RecordTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecordTableViewController.h; sourceTree = "<group>"; };
 		AC6C6A5C12C39C6D0016E1CC /* RecordTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecordTableViewController.m; sourceTree = "<group>"; };
 		AC6C6BD712C3C6DC0016E1CC /* EditRecordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditRecordViewController.h; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				AC3EC230163242E000046FAB /* Default-568h@2x.png */,
 				ACF189781312F1D200A3BE68 /* BarDouble.png */,
 				ACF189791312F1D200A3BE68 /* BarDouble@2x.png */,
 				AC79773D12D004AE00BC39E6 /* Icon-72.png */,
@@ -345,6 +348,7 @@
 				AC79774912D004AE00BC39E6 /* iTunesArtwork.png in Resources */,
 				ACF1897A1312F1D200A3BE68 /* BarDouble.png in Resources */,
 				ACF1897B1312F1D200A3BE68 /* BarDouble@2x.png in Resources */,
+				AC3EC231163242E000046FAB /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
